@@ -17,6 +17,10 @@
 
 : 개인적으로 학습한 파이썬 내용정리  
 
+>ROS
+
+: ROS강좌 관련, https://www.liveklass.com/classes/view?id=2174&pid=205  
+
 >kaggle           
 
 : 캐글 관련자료 -> 새로운 레포지토리로 이관예정
