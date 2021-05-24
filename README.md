@@ -21,13 +21,19 @@
 
 : ROS강좌 관련, https://www.liveklass.com/classes/view?id=2174&pid=205  
 
+
+>Visualization  
+  
+: 시각화 관련  
+  
+>수학과 함께하는 AI   
+  
+: EBS 수학과 함께하는 AI 예제 학습     
+  
 >kaggle           
-
-: 캐글 관련자료 -> 새로운 레포지토리로 이관예정
-
->수학과 함께하는 AI 
-
-: EBS 수학과 함께하는 AI 예제 학습   
+  
+: 캐글 관련자료 -> 새로운 레포지토리로 이관예정  
+  
 
 
   
