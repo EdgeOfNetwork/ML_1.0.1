@@ -34,8 +34,6 @@
 
 : 
   
->transformer  
+>transformer + 구글 BERT의 정석  
   
-: transformer, ViT, SWIN (KERAS)    
-
-  
+: transformer, ViT, SWIN (KERAS) 
