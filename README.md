@@ -30,10 +30,3 @@
   
 : EBS 수학과 함께하는 AI 예제 학습   
 
->stastics
-
-: 
-  
->transformer + 구글 BERT의 정석  
-  
-: transformer, ViT, SWIN (KERAS) 
